@@ -1,4 +1,4 @@
-# Proton - Little-Synths-With-BIG-Sounds-No2
+# Proton - Little Synths With BIG Sounds #2
 
 ![image](https://github.com/user-attachments/assets/f3aa9fc1-f2ad-43b1-b5ff-cc4e480b8870)
 
